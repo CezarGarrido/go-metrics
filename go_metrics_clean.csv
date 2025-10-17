@@ -1,0 +1,15 @@
+file,entity,type,loc,nom,nof,wmc,cbo,rfc,lcom,refactoring_needed,methods_per_field,loc_per_method,complexity_per_method,is_large_entity,is_complex
+teste/teste.go,User,struct,329,0,5,0,0,0,0,0,0.0,329.0,0.0,0,0
+teste/teste.go,OrderService,struct,329,0,6,0,0,0,0,0,0.0,329.0,0.0,0,0
+teste/teste.go,Order,struct,329,0,7,0,0,0,0,0,0.0,329.0,0.0,0,0
+teste/teste.go,OrderItem,struct,329,0,3,0,0,0,0,0,0.0,329.0,0.0,0,0
+teste/teste.go,Calculator,struct,329,0,1,0,0,0,0,0,0.0,329.0,0.0,0,0
+teste/teste.go,Config,struct,329,0,4,0,0,0,0,0,0.0,329.0,0.0,0,0
+teste/teste.go,Product,struct,329,0,12,0,0,0,0,0,0.0,329.0,0.0,0,0
+teste/teste.go,Dimensions,struct,329,0,3,0,0,0,0,0,0.0,329.0,0.0,0,0
+teste/teste.go,Supplier,struct,329,0,3,0,0,0,0,0,0.0,329.0,0.0,0,0
+teste/teste.go,ProcessHTTPRequest,function,329,1,0,1,0,14,0,0,1.0,164.5,0.5,0,0
+teste/teste.go,complexProcessing,function,329,1,0,1,0,7,0,0,1.0,164.5,0.5,0,0
+teste/teste.go,transformMetadata,function,329,1,0,1,0,2,0,0,1.0,164.5,0.5,0,0
+teste/teste.go,EvaluateStudentPerformance,function,329,1,0,1,0,8,0,0,1.0,164.5,0.5,0,0
+teste/teste.go,main,function,329,1,0,1,0,1,0,0,1.0,164.5,0.5,0,0
